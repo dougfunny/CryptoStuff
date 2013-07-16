@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+00:21:91:F5:E3:F7, 2012-11-07 17:04:26, 2012-11-07 17:05:28,  5,  54, WPA2WPA , CCMP TKIP,PSK, -85,       15,       98,   0.  0.  0.  0,   8, Fuzzynet, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+00:1D:E0:46:AE:43, 2012-11-07 17:04:30, 2012-11-07 17:05:26,   0,      288, 00:21:91:F5:E3:F7,
+1C:4B:D6:85:1B:D2, 2012-11-07 17:04:26, 2012-11-07 17:05:28, -81,      102, 00:21:91:F5:E3:F7,
+58:1F:AA:5B:6A:5C, 2012-11-07 17:05:22, 2012-11-07 17:05:27, -76,       43, 00:21:91:F5:E3:F7,
+
